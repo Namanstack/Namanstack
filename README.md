@@ -28,7 +28,7 @@ Currently exploring **DFT, RTL design, hardware optimization, and intelligent co
 </a>
 
 <a href="./Resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </div>
