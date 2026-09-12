@@ -1,3 +1,4 @@
+[Naman Samadhiya_Resume.pdf](https://github.com/user-attachments/files/32149960/Naman.Samadhiya_Resume.pdf)
 <div align="center">
 
 # Naman Samadhiya
@@ -27,7 +28,7 @@ Currently exploring **DFT, RTL design, hardware optimization, and intelligent co
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="./Resume.pdf">
+<a href="./Naman Samadhiya_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
