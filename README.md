@@ -1,4 +1,4 @@
-[Naman Samadhiya_Resume.pdf](https://github.com/user-attachments/files/32149960/Naman.Samadhiya_Resume.pdf)
+
 <div align="center">
 
 # Naman Samadhiya
