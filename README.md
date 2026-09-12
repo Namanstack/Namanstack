@@ -19,11 +19,16 @@ Currently exploring **DFT, RTL design, hardware optimization, and intelligent co
 
 ---
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kotikotinaman@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/naman-samadhiya">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="./Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=flat&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
 </div>
