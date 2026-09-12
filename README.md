@@ -93,21 +93,6 @@ The project combines signal analysis with intelligent control concepts.
 
 ---
 
-### ⚙️ Comparative Analysis of Hardwired and Microprogrammed Control Units
-
-A comparative analysis of **hardwired and microprogrammed control units**, evaluating parameters such as execution time, CPI, IPC, and CPU efficiency.
-
-**Tech:** `C` `Computer Architecture` `Digital Systems`
-
----
-
-### ☁️ Dynamic Cost-Aware HEFT
-
-A task scheduling approach extending the traditional **Heterogeneous Earliest Finish Time (HEFT)** algorithm with dynamic cost awareness for cloud-based heterogeneous computing environments.
-
-**Tech:** `Python` `Cloud Computing` `Task Scheduling`
-
----
 
 ## 🔬 Research
 
@@ -163,27 +148,6 @@ Undergraduate student focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Namanstack&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanstack&layout=compact&theme=dark&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Contribution
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Namanstack&theme=dark&hide_border=true" />
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
